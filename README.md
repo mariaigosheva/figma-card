@@ -27,11 +27,11 @@ This project demonstrates layout techniques, responsive design principles, and e
 
 ## 🛠️ Tech Stack
 
-HTML5 – Structure & semantic layout
+- **HTML5** – Structure & semantic layout
 
-CSS3 – Styling & responsive design
+- **CSS3** – Styling & responsive design
 
-Vite – Fast development server and build process
+- **Vite** – Fast development server and build process
 
 ---
 
