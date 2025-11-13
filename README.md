@@ -1,5 +1,5 @@
 
-## 🎴 Figma Card
+# 🎴 Figma Card
 
 A clean, responsive product card built with HTML, CSS, and Vite — inspired by a Figma design.
 This project demonstrates layout techniques, responsive design principles, and elegant styling using pure web technologies.
