@@ -1,52 +1,53 @@
 
-Figma Card — Product Card Demo
+## 🎴 Figma Card
 
-A small, responsive product card example inspired by a Figma design.
-Built with HTML, CSS and Vite — perfect for learning layout, responsive patterns, and subtle UI polish.
+A clean, responsive product card built with HTML, CSS, and Vite — inspired by a Figma design.
+This project demonstrates layout techniques, responsive design principles, and elegant styling using pure web technologies.
 
-Quick description
+## 🚀 Live Demo
 
-A clean, responsive product card component with image, title, description and call-to-action — designed for easy reuse in portfolios or small e-commerce mockups.
-
-Features
-
-Responsive layout (mobile → desktop)
-
-Simple, readable CSS with media queries
-
-Hover lift + shadow enhancement (optional)
-
-Ready to drop into any static site or component library
-
-Fast dev server via Vite
-
-Tech
-
-HTML
-
-CSS
-
-Vite (dev server + build)
-
-Getting started
-
-Clone the repo:
-
-git clone https://github.com/mariaigosheva/figma-card.git
-cd figma-card
+🔗 Visit Website
 
 
-Install dependencies:
+ ---
 
-npm install
+## ✨ Features
 
+🖼️ Product card layout – Image, title, description, and link.
 
-Run the dev server:
+📱 Responsive design – Adapts seamlessly from mobile to desktop.
 
-npm run dev
+🎨 Figma-inspired styling – Balanced spacing, modern color palette, and rounded corners.
 
+⚡ Vite-powered – Lightning-fast development and build tool.
 
+🧱 Pure HTML & CSS – Simple, semantic, and easy to modify.
 
-Preview the built site locally:
+---
 
-npm run preview
+## 🛠️ Tech Stack
+
+HTML5 – Structure & semantic layout
+
+CSS3 – Styling & responsive design
+
+Vite – Fast development server and build process
+
+---
+
+## 🚀 How It Works
+
+The product image, title, and description are defined in index.html.
+
+Styling and responsiveness are handled in style.css.
+
+Use npm run dev to start a local server and preview your design.
+
+Adjust or extend components to create a reusable product card system.
+
+---
+
+## 📂 Project Status
+
+✅ Complete — functional and ready to expand or integrate into other projects.
+
