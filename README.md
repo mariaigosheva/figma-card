@@ -6,10 +6,9 @@ This project demonstrates layout techniques, responsive design principles, and e
 
 ## 🚀 Live Demo
 
-🔗 Visit Website
+[🔗 Visit Website](https://mariaigosheva.github.io/figma-card/)
 
-
- ---
+---
 
 ## ✨ Features
 
